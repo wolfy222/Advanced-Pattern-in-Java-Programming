@@ -1,4 +1,4 @@
-# Advanced-Pattern-in-Java-Programming
+# Advanced-Pattern-in-Java-Programming - 
 ### Pattern 1 -
          *
         * *
